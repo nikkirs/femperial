@@ -208,6 +208,7 @@ header.masthead .intro-text .intro-heading {
   #aboutus img{
     height:300px;
     width:80vw;
+  }
 }
 @media (min-width: 768px) {
   header.masthead .intro-text {
