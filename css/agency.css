@@ -59,6 +59,11 @@ h6 {
 }
 
 @media (min-width: 768px) {
+  
+  #aboutus-img{
+    height:300px;
+    width:200px;
+  }
   section {
     padding: 150px 0;
   }
