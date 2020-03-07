@@ -204,7 +204,11 @@ header.masthead .intro-text .intro-heading {
   margin-bottom: 25px;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
-
+@media (min-width: 768px) {
+  #aboutus img{
+    height:300px;
+    width:80vw;
+}
 @media (min-width: 768px) {
   header.masthead .intro-text {
     padding-top: 300px;
