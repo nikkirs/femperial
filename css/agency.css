@@ -339,9 +339,7 @@ header.masthead .intro-text .intro-heading {
   background-color: transparent;
 }
 
-.portfolio-modal .close-modal:hover {
-  opacity: 0.3;
-}
+
 
 .portfolio-modal .close-modal .lr {
   /* Safari and Chrome */
